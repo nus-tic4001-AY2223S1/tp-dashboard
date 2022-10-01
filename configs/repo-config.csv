@@ -1,2 +1,2 @@
-Repository's Location,Branch,File formats,Ignore Glob List,Ignore standalone config,Ignore Commits List,Ignore Authors List
-https://github.com/reposense/RepoSense.git,master,,,,,
+Repository's Location,Branch,File Formats,Ignore Glob List,Ignore standalone config,Ignore Commits List,Ignore Authors List,Shallow Cloning,Find Previous Authors
+https://github.com/AY2223S1-TIC4001-F18-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,,
